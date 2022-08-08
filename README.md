@@ -7,8 +7,12 @@ https://github.com/starfive-tech/Fedora_on_StarFive
 
 ### Create user on fedora
 <p>su - <br>
-useradd {user-name}<br>
+useradd {user_name}<br>
 passwd {password}</p>
+
+### delete a user
+<p>su -<br>
+userdel {user_name}</p>
 
 ### give user sudo privilage
 
