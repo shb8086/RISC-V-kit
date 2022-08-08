@@ -6,7 +6,7 @@ https://github.com/starfive-tech/Fedora_on_StarFive
 </p>
 
 ### Create user on fedora
-<psu - <br>
+<p>su - <br>
 useradd {user-name}<br>
 passwd {password}</p>
 
